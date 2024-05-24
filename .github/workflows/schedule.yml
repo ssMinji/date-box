@@ -17,4 +17,4 @@ jobs:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 6b945220c3ac8588c56ce4dc08092d64
-          RECORDS: "2024-12-25 _ 크리스마스 | 2024-10-06 _ SQLD 시험 | 2024-09-15 BirthDay"
+          RECORDS: "2024-12-25 _ 크리스마스 | 2024-10-06 _ SQLD 시험 | 2024-09-15 _ BirthDay"
